@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = elina.emsens@hotmail.be
+	name = Elina Emsens
